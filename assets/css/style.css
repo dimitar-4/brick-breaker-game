@@ -5,8 +5,8 @@
 
 .game-field {
   display: block;
-  background-color: #eee;
+  background-color: #35809c;
   width: 40rem;
   height: 30rem;
-  margin: 0 auto;
+  margin: 8rem auto 0;
 }
