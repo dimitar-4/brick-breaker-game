@@ -6,7 +6,7 @@
 .game-field {
   display: block;
   background-color: #35809c;
-  width: 40rem;
-  height: 30rem;
-  margin: 8rem auto 0;
+  width: 60rem;
+  height: 45rem;
+  margin: 3rem auto 0;
 }
